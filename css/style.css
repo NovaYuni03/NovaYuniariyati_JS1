@@ -1,0 +1,19 @@
+/* CSS untuk mengatur tampilan kotak jawaban */
+.answer-box {
+    border: 1px dashed #384175;
+    padding: 10px;
+}
+
+
+/* CSS untuk kode JavaScript */
+.answer-box script {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    white-space: pre; 
+    overflow: auto; 
+}
+
+
+h1 {
+    font-size: 20px;
+    margin: 20px 0;
+}
